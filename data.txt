@@ -1,0 +1,1 @@
+{"relation": ["\u5144\u5f1f"], "_rev": "_YtgBRzq--_", "_key": "4190404", "weight": 0.9, "_to": "customNum/1969576", "link_type": 11, "_from": "customNum/1969513", "_id": "customNumSelfR/4190404"}
